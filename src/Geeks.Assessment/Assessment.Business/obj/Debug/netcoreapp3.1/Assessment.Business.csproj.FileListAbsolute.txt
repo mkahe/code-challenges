@@ -1,0 +1,9 @@
+/home/mehrdad/RiderProjects/Challenges/Geeks.Assessment/Assessment.Business/bin/Debug/netcoreapp3.1/Assessment.Business.deps.json
+/home/mehrdad/RiderProjects/Challenges/Geeks.Assessment/Assessment.Business/bin/Debug/netcoreapp3.1/Assessment.Business.dll
+/home/mehrdad/RiderProjects/Challenges/Geeks.Assessment/Assessment.Business/bin/Debug/netcoreapp3.1/Assessment.Business.pdb
+/home/mehrdad/RiderProjects/Challenges/Geeks.Assessment/Assessment.Business/obj/Debug/netcoreapp3.1/Assessment.Business.csprojAssemblyReference.cache
+/home/mehrdad/RiderProjects/Challenges/Geeks.Assessment/Assessment.Business/obj/Debug/netcoreapp3.1/Assessment.Business.AssemblyInfoInputs.cache
+/home/mehrdad/RiderProjects/Challenges/Geeks.Assessment/Assessment.Business/obj/Debug/netcoreapp3.1/Assessment.Business.AssemblyInfo.cs
+/home/mehrdad/RiderProjects/Challenges/Geeks.Assessment/Assessment.Business/obj/Debug/netcoreapp3.1/Assessment.Business.csproj.CoreCompileInputs.cache
+/home/mehrdad/RiderProjects/Challenges/Geeks.Assessment/Assessment.Business/obj/Debug/netcoreapp3.1/Assessment.Business.dll
+/home/mehrdad/RiderProjects/Challenges/Geeks.Assessment/Assessment.Business/obj/Debug/netcoreapp3.1/Assessment.Business.pdb

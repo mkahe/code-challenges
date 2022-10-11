@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fh0L1g9ZguYVpahAoU7OoQZEJsscDHVan/FIsGx2/yawatuAIbUWpUS6LJuJKBKg6iWhr1tjMMPkbZ9VNkEYJA==",
+  "success": true,
+  "projectFilePath": "/home/mehrdad/RiderProjects/Challenges/Geeks.Assessment/Assessment.Business/Assessment.Business.csproj",
+  "expectedPackageFiles": [
+    "/home/mehrdad/.nuget/packages/geeksdotnetassessment/1.0.9/geeksdotnetassessment.1.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
