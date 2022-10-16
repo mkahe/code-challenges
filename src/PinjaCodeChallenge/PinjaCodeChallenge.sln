@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinjaCodeChallenge", "PinjaCodeChallenge\PinjaCodeChallenge.csproj", "{1E551D58-75BC-4F00-98D5-CD8BCCC86AFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PinjaCodeChallenge.Tests", "PinjaCodeChallenge.Tests\PinjaCodeChallenge.Tests.csproj", "{6D97C9F2-D9EB-448B-A123-A02B41373920}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E551D58-75BC-4F00-98D5-CD8BCCC86AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E551D58-75BC-4F00-98D5-CD8BCCC86AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E551D58-75BC-4F00-98D5-CD8BCCC86AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E551D58-75BC-4F00-98D5-CD8BCCC86AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D97C9F2-D9EB-448B-A123-A02B41373920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D97C9F2-D9EB-448B-A123-A02B41373920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D97C9F2-D9EB-448B-A123-A02B41373920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D97C9F2-D9EB-448B-A123-A02B41373920}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
